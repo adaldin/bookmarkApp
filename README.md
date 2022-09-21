@@ -2,7 +2,7 @@
 Bookmark App is a future app created for an exercise, builded with [Bootstrap 5](https://getbootstrap.com/), [Sass](https://sass-lang.com/), Mobile First Design and Responsive Design. The idea was to create a landing page where after receiving the designs and user actions (UX/UI), I was able to implement the aforementioned technologies and create the page.
 
 
-##Visuals
+## Visuals
 On Desktop
 ![desktop](https://user-images.githubusercontent.com/18453013/191462230-91907704-aebb-4438-a5d9-3cb92e1f9e76.gif)
 On Mobile
