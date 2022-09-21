@@ -15,8 +15,10 @@ See the demo [here](https://bookmarkappp.netlify.app)
 </p>
 
 ## Roadmap
--Create a Contact page
--Create a Login feature
+<ul>
+    <li>Create a Contact page</li>
+    <li>Create a Login feature</li>
+</ul>
 
 ## Contributing
 Any sugestion is more than welcome!
