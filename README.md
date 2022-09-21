@@ -1,11 +1,13 @@
-#Bookmark
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+# Bookmark App
+Bookmark App is a future app created for an exercise, builded with [Bootstrap 5](https://getbootstrap.com/), [Sass](https://sass-lang.com/), Mobile First Design and Responsive Design. The idea was to create a landing page where after receiving the designs and user actions (UX/UI), I was able to implement the aforementioned technologies and create the page.
 
-Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
 
-Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+##Visuals
+On Desktop
+![desktop](https://user-images.githubusercontent.com/18453013/191462230-91907704-aebb-4438-a5d9-3cb92e1f9e76.gif)
+On Mobile
+![mobile](https://user-images.githubusercontent.com/18453013/191462619-b2d868c9-ab56-4ef8-ab02-1cf90efc592b.gif)
+
 
 Installation
 Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
