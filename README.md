@@ -3,11 +3,14 @@ Bookmark App is a future app created for an exercise, builded with [Bootstrap 5]
 
 
 ## Visuals
-<p align="center" width="100%">
+### Desktop
+<p align="center">
   <img src="https://user-images.githubusercontent.com/18453013/191463823-1ed3fb7c-4040-4785-8167-d0a63eb98ef4.gif" />
 </p>
-
-![mobile](https://user-images.githubusercontent.com/18453013/191462619-b2d868c9-ab56-4ef8-ab02-1cf90efc592b.gif)
+### Mobile
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18453013/191462619-b2d868c9-ab56-4ef8-ab02-1cf90efc592b.gif" />
+</p>
 
 
 Installation
