@@ -2,7 +2,7 @@
 Bookmark App is a future app created for an exercise, builded with [Bootstrap 5](https://getbootstrap.com/), [Sass](https://sass-lang.com/), Mobile First Design and Responsive Design. The idea was to create a landing page where after receiving the designs and user actions (UX/UI), I was able to implement the aforementioned technologies and create the page.
 
 
-## Visuals
+## Take a look closer 🔍
 See the demo [here](https://bookmarkappp.netlify.app)
 ### Desktop
 <p align="center">
