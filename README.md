@@ -14,6 +14,16 @@ See the demo [here](https://bookmarkappp.netlify.app)
   <img src="https://user-images.githubusercontent.com/18453013/191462619-b2d868c9-ab56-4ef8-ab02-1cf90efc592b.gif" />
 </p>
 
+## Builded with ⚙️
+<div>
+<img src="https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-HTML5-programming-and-development-those-icons-flat-those-icons.png"alt="html logo" width="40px"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3 logo, css logo"/>
+  <img src="https://img.icons8.com/fluency/48/000000/javascript.png"alt="js logo"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img src="https://img.icons8.com/material-outlined/48/000000/sass.png"/>
+    </div>   
+    
+
 ## Roadmap 🗺️
 * Create a Contact page
 * Create a Login feature
