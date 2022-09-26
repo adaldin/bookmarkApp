@@ -14,16 +14,22 @@ See the demo [here](https://bookmarkappp.netlify.app)
   <img src="https://user-images.githubusercontent.com/18453013/191462619-b2d868c9-ab56-4ef8-ab02-1cf90efc592b.gif" />
 </p>
 
-## Roadmap
-<ul>
-    <li>Create a Contact page</li>
-    <li>Create a Login feature</li>
-</ul>
-
-## Contributing
-Any sugestion is more than welcome!
+## Roadmap 🗺️
+* Create a Contact page
+* Create a Login feature
 
 
-## Authors and acknowledgment
+## Contributing 🤝
+ Any suggestion is more than welcome & greatly appreciated! ❤️
+ Feel free to follow next steps in order to contribute to this project
+ 
+1. Fork the Project 
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature) 
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
+
+
+## Author ✍️
 [@adaldin](https://github.com/adaldin)
 
