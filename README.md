@@ -25,6 +25,7 @@ See the demo [here](https://bookmarkappp.netlify.app)
   <img src="https://img.icons8.com/fluency/48/000000/javascript.png"alt="js logo"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src="https://img.icons8.com/material-outlined/48/000000/sass.png"/>
+  <img src="https://img.icons8.com/external-xnimrodx-lineal-gradient-xnimrodx/64/000000/external-responsive-responsive-design-xnimrodx-lineal-gradient-xnimrodx.png"/>
     </div>   
     
 
